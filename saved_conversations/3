@@ -1,0 +1,19 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you feeling today?
+user : what are your interests
+bot : - I am interested in helping you know details about SMIT!
+user : What is the contact number of this college
+bot : - You can contact us at +91 9735110007/ 9635527557
+user : contact umber of college?
+bot : - You can contact us at +91 9735110007/ 9635527557
+user : director contact?
+bot : - Dr. Ashis Sharma \nEmail: director.smit@smu.edu.in \nPhone No: 03592 246353
+user : aicte?
+bot : - Yes, SMIT enjoys approval of all the courses by regulatory bodies like All India Council of Technical Education (AICTE)
+user : Library?
+bot : - Yes,there is a in-campus library in the college
+user : wifi?
+bot : - The University have a wifi connection connected all over the campus and in hostels as well
+user : is there wifi?
+bot : - The University have a wifi connection connected all over the campus and in hostels as well

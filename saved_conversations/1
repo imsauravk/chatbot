@@ -1,0 +1,9 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : What is your name?
+bot : - You can call me Saurav
+user : Does SMIT accept admission through JEE score?
+bot : - Yes we do
+user : Does SMIT give laptops? 
+bot : - No they do not
+user : Director's contact?
+bot : - Dr. Ashis Sharma \nEmail: director.smit@smu.edu.in \nPhone No: 03592 246353

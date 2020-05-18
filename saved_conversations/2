@@ -1,0 +1,7 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : is smit private?
+bot : - Yes, SMIT is a private university
+user : is smit a private college?
+bot : - Yes, SMIT is a private university
+user : programs offered?
+bot : - Undergraduate: \nBtech in CSE,IT,ECE,EEE,ME,CE \n Postgraduate: \n Mtech in CSE, IT, Digital electronics, etc
