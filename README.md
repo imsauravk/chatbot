@@ -1,7 +1,13 @@
 # Chatbot for College Admission Queries
 Mini Project
 
-Creating Virtual Environment
+Tools used:
+1. python 3.6.8
+2. flask
+3. chatterbot
+4. sqlite
+
+Creating Virtual Environment:
 1. pip install virtualenv
 2. virtualenv anyname
 3 cd anyname/Scripts
