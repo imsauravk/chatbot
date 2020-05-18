@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot for College Admission Queries
 Mini Project
 
 Creating Virtual Environment
